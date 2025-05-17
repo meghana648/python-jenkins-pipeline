@@ -1,6 +1,5 @@
 --index-url https://techops.artifactory.cec.lab.emc.com/artifactory/api/pypi/techops-pypi-virtual/simple/
 Flask
-xyrehhhsssssll
 Flask_Script
 cosmic_ray
 nose
